@@ -13,6 +13,6 @@ package com.mycompany.topmano;
 public class StringHelper {
 
     public static String manipularString(String txt) {
-        return txt + "2";
+        return txt + "5";
     }
 }
